@@ -1,6 +1,6 @@
 {
   "name": "buildless-babel-transform",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Babel transform for buildless",
   "homepage": "https://github.com/OrKoN/buildless-transforms",
   "repository": {
