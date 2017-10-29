@@ -1,6 +1,6 @@
 {
   "name": "buildless-ejs-transform",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "description": "EJS transform for buildless",
   "homepage": "https://github.com/OrKoN/buildless-transforms",
   "repository": {
@@ -24,5 +24,7 @@
   "dependencies": {
     "ejs": "^2.5.7"
   },
-  "engines" : { "node" : ">=6" }
+  "engines": {
+    "node": ">=6"
+  }
 }
