@@ -1,6 +1,6 @@
 {
   "name": "buildless-babel-transform",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Babel transform for buildless",
   "homepage": "https://github.com/OrKoN/buildless-transforms",
   "repository": {
@@ -19,10 +19,11 @@
   "author": "Oleksii Rudenko <alexei.rudenko@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "*",
     "mocha": "^4.0.1"
   },
-  "dependencies": {
-    "babel-core": "^6.26.0"
+  "peerDependencies": {
+    "babel-core": "*"
   },
   "engines": {
     "node": ">=6"
